@@ -74,7 +74,10 @@ button {
   box-shadow: 0px 0px 25px whitesmoke;
 
 }
-
+iframe {
+  width: 50%;
+  height: 100vh;
+}
 footer {
     display: flex;
     justify-content: center;
